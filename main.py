@@ -19,7 +19,7 @@ employees = {
         "salary":500000
     },
       3: {
-        "name":"Karanja Wanjala",
+        "name":"Wandindi Jandada",
         "role":"Backend Engineer",
         "salary":500000
     },
